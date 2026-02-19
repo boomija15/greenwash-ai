@@ -1,0 +1,21 @@
+{
+  "vague": [
+    "eco-friendly", "green", "natural", "planet-conscious", "sustainable",
+    "earth-friendly", "clean", "responsible", "ethical", "conscious",
+    "environmentally friendly", "earth-safe", "planet-friendly", "green product",
+    "nature-inspired", "eco", "bio", "organic", "pure", "clean energy"
+  ],
+  "absolute": [
+    "100% biodegradable", "zero emissions", "fully carbon neutral",
+    "completely chemical-free", "100% eco-friendly", "zero waste",
+    "100% sustainable", "fully recyclable", "zero carbon", "100% natural",
+    "completely green", "totally organic", "zero environmental impact",
+    "100% renewable", "fully compostable"
+  ],
+  "misleading": [
+    "forest-safe", "wildlife-friendly", "cruelty-free", "earth-positive",
+    "sustainably sourced", "carbon neutral", "ocean-safe", "rainforest-safe",
+    "biodiversity-positive", "nature-positive", "deforestation-free",
+    "habitat-safe", "species-friendly", "ecosystem-safe", "land-neutral"
+  ]
+}
